@@ -1,0 +1,19 @@
+button{
+    font-size: 1.15em;
+    font-weight: bold;
+    padding: 8px 13px;
+    border-radius: 5px;
+    border: 2px solid black;
+    box-shadow:  1px 1px 5px black;
+    color: black;
+    background-color: rgb(88, 161, 245);
+    margin-left: 2%;
+}
+
+input{
+    margin-left: 2%;
+}
+
+section{
+    
+}
